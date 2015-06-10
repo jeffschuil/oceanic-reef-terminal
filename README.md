@@ -2,6 +2,8 @@
 
 Based on the [oceanic-reef-syntax](https://github.com/jeffschuil/oceanic-reef-syntax).
 
+<img src="http://i.imgur.com/DeUEyWE.png" alt="capture">
+
 ## Usage
 
 1. Download this repo.
