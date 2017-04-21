@@ -2,7 +2,7 @@
 
 Based on the [oceanic-reef-syntax](https://github.com/jeffschuil/oceanic-reef-syntax).
 
-![screenshot](https://github.com/jeffschuil/oceanic-reef-terminal/raw/master/screenshots/screenshot.png)
+![screenshot](https://github.com/jeffschuil/oceanic-reef-terminal/raw/master/screenshot.png)
 
 ## Usage
 
