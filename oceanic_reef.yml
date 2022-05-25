@@ -1,0 +1,26 @@
+# Oceanic Reef Theme for Warp terminal
+# copy to ~/.warp/themes/ to install
+
+accent: '#65727e'
+background: '#11273a'
+details: darker
+foreground: '#9bacb8'
+terminal_colors:
+  bright:
+    black: '#666666'
+    blue: '#66bbff'
+    cyan: '#94d6f4'
+    green: '#69d1a5'
+    magenta: '#e2a3e5'
+    red: '#d3787a'
+    white: '#e5e5e5'
+    yellow: '#fefb67'
+  normal:
+    black: '#000000'
+    blue: '#66bbff'
+    cyan: '#94d6f4'
+    green: '#69d1a5'
+    magenta: '#e2a3e5'
+    red: '#d3787a'
+    white: '#bfbfbf'
+    yellow: '#f6c669'
